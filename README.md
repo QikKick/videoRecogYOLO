@@ -33,7 +33,7 @@ video-summarizer/
 Sistema naudoja hibridinį „Audio-Visual“ metodą svarbiausioms akimirkoms nustatyti:
 
 ### Vaizdo Analizė (Computer Vision):
-- Naudojamas YOLOv11 (arba v8) modelis objektų aptikimui.
+- Naudojamas YOLOv11 modelis objektų aptikimui.
 - Sistema skenuoja vaizdą ir skaičiuoja „svarbumo balą“ pagal formulę: ```(Žmonių skaičius * 1) + (Kamuolys * 50)```. Tai leidžia atskirti žaidimo momentus nuo pertraukėlių.
 
 ### Garso Analizė (Audio Processing):
