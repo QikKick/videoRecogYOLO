@@ -71,8 +71,7 @@ Sistema naudoja hibridinį „Audio-Visual“ metodą svarbiausioms akimirkoms n
 
 - Pagrindinėje direktorijoje sukurkite aplanką data/ ir įkelkite ten savo video failą (pvz., video.mp4).
 
-- Naudoto video atsisiuntimo nuoroda (nuoroda laikina, jei neišeina atsisiųsti, susiekit asmeniškai: [https://we.tl/t-aPP7YYVaNl
-](https://we.tl/t-aPP7YYVaNl)
+- Naudoto video atsisiuntimo nuoroda (nuoroda laikina, jei neišeina atsisiųsti, susiekit asmeniškai: [https://we.tl/t-flj10cO6WO](https://we.tl/t-flj10cO6WO)
 
 ## Paleidimas
 
